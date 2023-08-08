@@ -5,7 +5,7 @@ This project is using python and developed as a learning tool with an objective 
 ﻿## Screenshot
  
 <picture>
-   <img alt="Screenshot" src="https://raw.githubusercontent.com/ambientWave/PDF1.6-Password-Encryptor/main/Image.png">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/ambientWave/PDF1.6-Password-Encryptor/main/Image.png">
 </picture>
 
 ﻿## Technology
