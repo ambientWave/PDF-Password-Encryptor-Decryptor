@@ -1,0 +1,2 @@
+python User_beta.build8allcasealphanumeric.py
+pause

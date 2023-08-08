@@ -1,0 +1,2 @@
+python User_beta.build6alphabetic.py
+pause
